@@ -1,1 +1,50 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: Tahoma ;
+  text-align: center;
+  background: aliceblue;
+}
+
+.game_panel {
+  background: #c1d1c1;
+  border-radius: 30px;
+  padding: 15px;
+  width: fit-content;
+  margin: auto;
+}
+
+button {
+  color: white;
+  background: cornflowerblue;
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px;
+}
+
+h2 {
+  color: darkolivegreen;
+  font-family: Verdana;
+  font-weight: lighter;
+}
+
+#btn_row {
+  margin: 20px;
+}
+
+button.cheat {
+  background: #DF8434;
+}
+
+button.danger {
+  background: indianred;
+}
+
+strong {
+  color: steelblue;
+}
+
+img {
+  width: 300px
+}
